@@ -1,0 +1,26 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY   ::   Copie de fichiers robuste pour Windows     
+-------------------------------------------------------------------------------
+
+  DÇbutˇ: 10 mars 2017 00:24:58
+   Source : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Umbraco_Client\
+     Dest : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\App_Data\NuGetBackup\20170310-002433\Umbraco_Client\
+
+    Fichiers : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                   0	C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Umbraco_Client\
+
+-------------------------------------------------------------------------------
+
+               Total     CopiÇ    IgnorÇDiscordance     êCHEC    Extras
+     RÇpˇ:         1         0         1         0         0         0
+Fichiersˇ:         0         0         0         0         0         0
+  Octetsˇ:         0         0         0         0         0         0
+   Heures:   0:00:00   0:00:00                       0:00:00   0:00:00
+   Finˇ: 10 mars 2017 00:24:58
+

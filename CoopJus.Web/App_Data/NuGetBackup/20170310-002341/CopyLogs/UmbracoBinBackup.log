@@ -1,0 +1,91 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY   ::   Copie de fichiers robuste pour Windows     
+-------------------------------------------------------------------------------
+
+  DÇbutˇ: 10 mars 2017 00:23:41
+   Source : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\bin\
+     Dest : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\App_Data\NuGetBackup\20170310-002341\bin\
+
+    Fichiers : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                  61	C:\Users\User\Source\Repos\coopjus\CoopJus.Web\bin\
+	  Nouveau fichier		  166400	AutoMapper.dll  0%   78%  100%  
+	  Nouveau fichier		   28672	AutoMapper.Net4.dll  0%  100%  
+	  Nouveau fichier		  118784	businesslogic.dll  0%  100%  
+	  Nouveau fichier		  148480	ClientDependency.Core.dll  0%   88%  100%  
+	  Nouveau fichier		   23552	ClientDependency.Core.Mvc.dll  0%  100%  
+	  Nouveau fichier		  524288	cms.dll  0%   25%   50%   75%  100%  
+	  Nouveau fichier		   52224	controls.dll  0%  100%  
+	  Nouveau fichier		  122880	CookComputing.XmlRpcV2.dll  0%  100%  
+	  Nouveau fichier		  114176	Examine.dll  0%  100%  
+	  Nouveau fichier		  134656	HtmlAgilityPack.dll  0%   97%  100%  
+	  Nouveau fichier		  200704	ICSharpCode.SharpZipLib.dll  0%   65%  100%  
+	  Nouveau fichier		  180224	ImageProcessor.dll  0%   72%  100%  
+	  Nouveau fichier		  120320	ImageProcessor.Web.dll  0%  100%  
+	  Nouveau fichier		   24576	interfaces.dll  0%  100%  
+	  Nouveau fichier		  258048	log4net.dll  0%   50%  100%  
+	  Nouveau fichier		  786432	Lucene.Net.dll  0%   33%   66%  100%  
+	  Nouveau fichier		   49152	MarkdownSharp.dll  0%  100%  
+	  Nouveau fichier		   11264	Microsoft.ApplicationBlocks.Data.dll  0%  100%  
+	  Nouveau fichier		  171672	Microsoft.AspNet.Identity.Core.dll  0%   76%  100%  
+	  Nouveau fichier		   54944	Microsoft.AspNet.Identity.Owin.dll  0%  100%  
+	  Nouveau fichier		   3.8 m	Microsoft.CodeAnalysis.CSharp.dll  0%   13%   26%   39%   52%   65%   78%   91%  100%  
+	  Nouveau fichier		   1.6 m	Microsoft.CodeAnalysis.dll  0%   15%   30%   45%   60%   76%   91%  100%  
+	  Nouveau fichier		   30880	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll  0%  100%  
+	  Nouveau fichier		    1805	Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml  0%  100%  
+	  Nouveau fichier		   41232	Microsoft.IO.RecyclableMemoryStream.dll  0%  100%  
+	  Nouveau fichier		  101032	Microsoft.Owin.dll  0%  100%  
+	  Nouveau fichier		  133288	Microsoft.Owin.Host.SystemWeb.dll  0%   98%  100%  
+	  Nouveau fichier		   36520	Microsoft.Owin.Security.Cookies.dll  0%  100%  
+	  Nouveau fichier		   53416	Microsoft.Owin.Security.dll  0%  100%  
+	  Nouveau fichier		   77488	Microsoft.Owin.Security.OAuth.dll  0%  100%  
+	  Nouveau fichier		   45416	Microsoft.Web.Infrastructure.dll  0%  100%  
+	  Nouveau fichier		  396288	MiniProfiler.dll  0%   33%   66%   99%  100%  
+	  Nouveau fichier		  424448	MySql.Data.dll  0%   30%   61%   92%  100%  
+	  Nouveau fichier		  513536	Newtonsoft.Json.dll  0%   25%   51%   76%  100%  
+	  Nouveau fichier		    4608	Owin.dll  0%  100%  
+	  Nouveau fichier		   10240	Semver.dll  0%  100%  
+	  Nouveau fichier		   19968	SQLCE4Umbraco.dll  0%  100%  
+	  Nouveau fichier		  204544	System.Collections.Immutable.dll  0%   64%  100%  
+	  Nouveau fichier		  470696	System.Data.SqlServerCe.dll  0%   27%   55%   83%  100%  
+	  Nouveau fichier		  240808	System.Data.SqlServerCe.Entity.dll  0%   54%  100%  
+	  Nouveau fichier		  185544	System.Net.Http.Formatting.dll  0%   70%  100%  
+	  Nouveau fichier		  262896	System.Reflection.Metadata.dll  0%   49%   99%  100%  
+	  Nouveau fichier		  139976	System.Web.Helpers.dll  0%   93%  100%  
+	  Nouveau fichier		  471240	System.Web.Http.dll  0%   27%   55%   83%  100%  
+	  Nouveau fichier		   82120	System.Web.Http.WebHost.dll  0%  100%  
+	  Nouveau fichier		  566472	System.Web.Mvc.dll  0%   46%   92%  100%  
+	  Nouveau fichier		  272072	System.Web.Razor.dll  0%   48%   96%  100%  
+	  Nouveau fichier		   41672	System.Web.WebPages.Deployment.dll  0%  100%  
+	  Nouveau fichier		  211656	System.Web.WebPages.dll  0%   61%  100%  
+	  Nouveau fichier		   39624	System.Web.WebPages.Razor.dll  0%  100%  
+	  Nouveau fichier		  192512	TidyNet.dll  0%   68%  100%  
+	  Nouveau fichier		   2.4 m	Umbraco.Core.dll  0%   20%   41%   61%   82%  100%  
+	  Nouveau fichier		   38912	umbraco.DataLayer.dll  0%  100%  
+	  Nouveau fichier		   2.1 m	umbraco.dll  0%   23%   46%   69%   92%  100%  
+	  Nouveau fichier		  372736	umbraco.editorControls.dll  0%   35%   70%  100%  
+	  Nouveau fichier		  131584	umbraco.MacroEngines.dll  0%   99%  100%  
+	  Nouveau fichier		   98816	Umbraco.ModelsBuilder.dll  0%  100%  
+	  Nouveau fichier		   38400	umbraco.providers.dll  0%  100%  
+	  Nouveau fichier		   57344	Umbraco.Web.UI.dll  0%  100%  
+	  Nouveau fichier		   64512	UmbracoExamine.dll  0%  100%  
+	  Nouveau fichier		   22528	UrlRewritingNet.UrlRewriter.dll  0%  100%  
+
+-------------------------------------------------------------------------------
+
+               Total     CopiÇ    IgnorÇDiscordance     êCHEC    Extras
+     RÇpˇ:         1         0         1         0         0         0
+Fichiersˇ:        61        61         0         0         0         0
+  Octetsˇ:   19.00 m   19.00 m         0         0         0         0
+   Heures:   0:00:02   0:00:02                       0:00:00   0:00:00
+
+
+   DÇbitˇ:             7542057 Octets/sec.
+   DÇbitˇ:             431.560 MÇga-octets/min.
+   Finˇ: 10 mars 2017 00:23:44
+

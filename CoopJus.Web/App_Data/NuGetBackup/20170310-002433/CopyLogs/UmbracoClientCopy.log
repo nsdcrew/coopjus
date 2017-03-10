@@ -1,0 +1,1232 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY   ::   Copie de fichiers robuste pour Windows     
+-------------------------------------------------------------------------------
+
+  DÇbutˇ: 10 mars 2017 00:24:58
+   Source : C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\
+     Dest : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Umbraco_Client\
+
+    Fichiers : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /IS /IT /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                   0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Application\
+	  Nouveau fichier		   13503	Extensions.js  0%  100%  
+	  Nouveau fichier		    2417	HistoryManager.js  0%  100%  
+	  Nouveau fichier		     839	NamespaceManager.js  0%  100%  
+	  Nouveau fichier		   21957	UmbracoApplicationActions.js  0%  100%  
+	  Nouveau fichier		   12833	UmbracoClientManager.js  0%  100%  
+	  Nouveau fichier		     374	UmbracoUtils.js  0%  100%  
+	  Nouveau fichier		    2060	UrlEncoder.js  0%  100%  
+	Nouveau rÇp.      12	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Application\JQuery\
+	  Nouveau fichier		    2057	jquery-fieldselection.js  0%  100%  
+	  Nouveau fichier		   30336	jquery.autocomplete.js  0%  100%  
+	  Nouveau fichier		    5941	jquery.ba-bbq.min.js  0%  100%  
+	  Nouveau fichier		    4344	jquery.cookie.js  0%  100%  
+	  Nouveau fichier		    3178	jquery.hotkeys.js  0%  100%  
+	  Nouveau fichier		    6992	jquery.idle-timer.js  0%  100%  
+	  Nouveau fichier		    1304	jquery.metadata.min.js  0%  100%  
+	  Nouveau fichier		     165	jquery.noconflict-invoke.js  0%  100%  
+	  Nouveau fichier		    2749	jquery.unobtrusive-ajax.min.js  0%  100%  
+	  Nouveau fichier		   21496	jquery.validate.min.js  0%  100%  
+	  Nouveau fichier		    3745	jquery.validate.unobtrusive.min.js  0%  100%  
+	  Nouveau fichier		     255	VerticalAlign.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\CodeArea\
+	  Nouveau fichier		    6126	javascript.js  0%  100%  
+	  Nouveau fichier		     305	styles.css  0%  100%  
+	  Nouveau fichier		    6997	UmbracoEditor.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Colorpicker\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Colorpicker\Css\
+	  Nouveau fichier		    3367	colorpicker.css  0%  100%  
+	Nouveau rÇp.      26	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Colorpicker\Images\
+	  Nouveau fichier		      49	blank.gif  0%  100%  
+	  Nouveau fichier		    1897	colorpicker_background.png  0%  100%  
+	  Nouveau fichier		     532	colorpicker_hex.png  0%  100%  
+	  Nouveau fichier		     970	colorpicker_hsb_b.png  0%  100%  
+	  Nouveau fichier		    1012	colorpicker_hsb_h.png  0%  100%  
+	  Nouveau fichier		    1171	colorpicker_hsb_s.png  0%  100%  
+	  Nouveau fichier		      86	colorpicker_indic.gif  0%  100%  
+	  Nouveau fichier		   10355	colorpicker_overlay.png  0%  100%  
+	  Nouveau fichier		     970	colorpicker_rgb_b.png  0%  100%  
+	  Nouveau fichier		    1069	colorpicker_rgb_g.png  0%  100%  
+	  Nouveau fichier		    1066	colorpicker_rgb_r.png  0%  100%  
+	  Nouveau fichier		      78	colorpicker_select.gif  0%  100%  
+	  Nouveau fichier		     984	colorpicker_submit.png  0%  100%  
+	  Nouveau fichier		    1916	custom_background.png  0%  100%  
+	  Nouveau fichier		     562	custom_hex.png  0%  100%  
+	  Nouveau fichier		    1097	custom_hsb_b.png  0%  100%  
+	  Nouveau fichier		     970	custom_hsb_h.png  0%  100%  
+	  Nouveau fichier		    1168	custom_hsb_s.png  0%  100%  
+	  Nouveau fichier		      86	custom_indic.gif  0%  100%  
+	  Nouveau fichier		    1008	custom_rgb_b.png  0%  100%  
+	  Nouveau fichier		    1069	custom_rgb_g.png  0%  100%  
+	  Nouveau fichier		    1018	custom_rgb_r.png  0%  100%  
+	  Nouveau fichier		     997	custom_submit.png  0%  100%  
+	  Nouveau fichier		     506	select.png  0%  100%  
+	  Nouveau fichier		     518	select2.png  0%  100%  
+	  Nouveau fichier		     315	slider.png  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Colorpicker\Js\
+	  Nouveau fichier		   17175	colorpicker.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\ContextMenu\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\ContextMenu\Css\
+	  Nouveau fichier		    4026	jquery.contextMenu.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\ContextMenu\Js\
+	  Nouveau fichier		   62773	jquery.contextMenu.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Datepicker\
+	Nouveau rÇp.      10	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Datepicker\Aqua\
+	  Nouveau fichier		      89	active-bg.gif  0%  100%  
+	  Nouveau fichier		      85	dark-bg.gif  0%  100%  
+	  Nouveau fichier		      89	hover-bg.gif  0%  100%  
+	  Nouveau fichier		      49	menuarrow.gif  0%  100%  
+	  Nouveau fichier		     110	normal-bg.gif  0%  100%  
+	  Nouveau fichier		     110	rowhover-bg.gif  0%  100%  
+	  Nouveau fichier		     116	status-bg.gif  0%  100%  
+	  Nouveau fichier		    4941	theme.css  0%  100%  
+	  Nouveau fichier		     116	title-bg.gif  0%  100%  
+	  Nouveau fichier		    1122	today-bg.gif  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Datepicker\Images\
+	  Nouveau fichier		     674	calPickerIcon.png  0%  100%  
+	  Nouveau fichier		     633	calPickerIconHover.png  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\DateTimePicker\
+	  Nouveau fichier		   20315	datetimepicker.css  0%  100%  
+	  Nouveau fichier		   13311	timepicker.js  0%  100%  
+	  Nouveau fichier		    1939	umbDateTimePicker.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\DateTimePicker\Images\
+	  Nouveau fichier		    1110	calSprite.png  0%  100%  
+	  Nouveau fichier		    8673	ui-icons_666666_256x240.png  0%  100%  
+	  Nouveau fichier		    8641	ui-icons_999999_256x240.png  0%  100%  
+	Nouveau rÇp.      10	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Dialogs\
+	  Nouveau fichier		     362	AssignDomain2.css  0%  100%  
+	  Nouveau fichier		    5351	AssignDomain2.js  0%  100%  
+	  Nouveau fichier		     212	CreateDialog.css  0%  100%  
+	  Nouveau fichier		     316	EditMacro.css  0%  100%  
+	  Nouveau fichier		    7379	EditMacro.js  0%  100%  
+	  Nouveau fichier		     362	PublishDialog.css  0%  100%  
+	  Nouveau fichier		    3481	PublishDialog.js  0%  100%  
+	  Nouveau fichier		    1171	SortDialog.css  0%  100%  
+	  Nouveau fichier		    4674	SortDialog.js  0%  100%  
+	  Nouveau fichier		    6012	UmbracoField.js  0%  100%  
+	Nouveau rÇp.       9	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Editors\
+	  Nouveau fichier		     486	DirectoryBrowser.css  0%  100%  
+	  Nouveau fichier		     703	EditMacro.css  0%  100%  
+	  Nouveau fichier		    3039	EditMacroScripts.js  0%  100%  
+	  Nouveau fichier		    4183	EditScript.js  0%  100%  
+	  Nouveau fichier		    3796	EditStyleSheet.js  0%  100%  
+	  Nouveau fichier		    6259	EditTemplate.js  0%  100%  
+	  Nouveau fichier		   11260	EditView.js  0%  100%  
+	  Nouveau fichier		     161	EditXslt.css  0%  100%  
+	  Nouveau fichier		    3008	EditXslt.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\FileUploader\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\FileUploader\Js\
+	  Nouveau fichier		   16856	jquery.fileUploader.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\FolderBrowser\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\FolderBrowser\Css\
+	  Nouveau fichier		    5366	folderbrowser.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\FolderBrowser\Js\
+	  Nouveau fichier		   18665	folderbrowser.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\IconPicker\
+	  Nouveau fichier		      52	iconpicker.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Imagecropper\
+	  Nouveau fichier		     329	Jcrop.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Images\
+	  Nouveau fichier		   10819	progressbar.gif  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Installer\
+	Nouveau rÇp.       5	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Installer\Css\
+	  Nouveau fichier		   23469	all.css  0%  100%  
+	  Nouveau fichier		    1314	form.css  0%  100%  
+	  Nouveau fichier		   20078	jquery-ui-1.8.6.custom.css  0%  100%  
+	  Nouveau fichier		    7958	lt7.css  0%  100%  
+	  Nouveau fichier		     967	reset.css  0%  100%  
+	Nouveau rÇp.      98	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Installer\Images\
+	  Nouveau fichier		   19424	bg-bhuiness-cl.gif  0%  100%  
+	  Nouveau fichier		   46684	bg-bhuiness-cr.gif  0%  100%  
+	  Nouveau fichier		  184850	bg-bhuiness.jpg  0%   70%  100%  
+	  Nouveau fichier		   18564	bg-blog-cl.gif  0%  100%  
+	  Nouveau fichier		   50756	bg-blog-cr.gif  0%  100%  
+	  Nouveau fichier		   11078	bg-blog-repeat.jpg  0%  100%  
+	  Nouveau fichier		  187609	bg-blog.jpg  0%   69%  100%  
+	  Nouveau fichier		     387	bg-drop-b.png  0%  100%  
+	  Nouveau fichier		      84	bg-drop-c.gif  0%  100%  
+	  Nouveau fichier		     391	bg-drop-t.png  0%  100%  
+	  Nouveau fichier		     158	bg-header.png  0%  100%  
+	  Nouveau fichier		    3915	bg-img-ie.png  0%  100%  
+	  Nouveau fichier		    2452	bg-img.png  0%  100%  
+	  Nouveau fichier		     866	bg-inp-big.png  0%  100%  
+	  Nouveau fichier		     616	bg-inp-error.png  0%  100%  
+	  Nouveau fichier		     621	bg-inp.png  0%  100%  
+	  Nouveau fichier		     283	bg-lightbox-b.png  0%  100%  
+	  Nouveau fichier		     296	bg-lightbox-t.png  0%  100%  
+	  Nouveau fichier		   18097	bg-normal-cl.gif  0%  100%  
+	  Nouveau fichier		   46703	bg-normal-cr.gif  0%  100%  
+	  Nouveau fichier		    9811	bg-normal-repeat.jpg  0%  100%  
+	  Nouveau fichier		  178356	bg-normal.jpg  0%   73%  100%  
+	  Nouveau fichier		     366	bg-paging-h.png  0%  100%  
+	  Nouveau fichier		     346	bg-paging.png  0%  100%  
+	  Nouveau fichier		   18097	bg-personal-cl.gif  0%  100%  
+	  Nouveau fichier		   46703	bg-personal-cr.gif  0%  100%  
+	  Nouveau fichier		    9811	bg-personal-repeat.jpg  0%  100%  
+	  Nouveau fichier		  178356	bg-personal.jpg  0%   73%  100%  
+	  Nouveau fichier		   17705	bg-simple-cl.gif  0%  100%  
+	  Nouveau fichier		   42137	bg-simple-cr.gif  0%  100%  
+	  Nouveau fichier		   12773	bg-simple-repeat.jpg  0%  100%  
+	  Nouveau fichier		  216794	bg-simple.jpg  0%   60%  100%  
+	  Nouveau fichier		    6059	btn-accept.png  0%  100%  
+	  Nouveau fichier		    2708	btn-back.png  0%  100%  
+	  Nouveau fichier		   22650	btn-blog.png  0%  100%  
+	  Nouveau fichier		   16942	btn-buisness-repeat.png  0%  100%  
+	  Nouveau fichier		   26481	btn-buisness.png  0%  100%  
+	  Nouveau fichier		    1682	btn-close.png  0%  100%  
+	  Nouveau fichier		    3113	btn-confirm.png  0%  100%  
+	  Nouveau fichier		    3500	btn-continue.png  0%  100%  
+	  Nouveau fichier		    2243	btn-create-hover.png  0%  100%  
+	  Nouveau fichier		    4277	btn-create.png  0%  100%  
+	  Nouveau fichier		    6109	btn-get.png  0%  100%  
+	  Nouveau fichier		    6446	btn-install-gal.png  0%  100%  
+	  Nouveau fichier		    1484	btn-install-hover.png  0%  100%  
+	  Nouveau fichier		    2789	btn-install.png  0%  100%  
+	  Nouveau fichier		     952	btn-next.png  0%  100%  
+	  Nouveau fichier		   25962	btn-no-thanks.png  0%  100%  
+	  Nouveau fichier		    1898	btn-no.png  0%  100%  
+	  Nouveau fichier		   30788	btn-personal.png  0%  100%  
+	  Nouveau fichier		     958	btn-prev.png  0%  100%  
+	  Nouveau fichier		    7219	btn-preview-web.png  0%  100%  
+	  Nouveau fichier		    8978	btn-preview.png  0%  100%  
+	  Nouveau fichier		    6976	btn-set.png  0%  100%  
+	  Nouveau fichier		   28477	btn-simple.png  0%  100%  
+	  Nouveau fichier		    2380	btn-yes.png  0%  100%  
+	  Nouveau fichier		     205	bul1.png  0%  100%  
+	  Nouveau fichier		      46	bul2.gif  0%  100%  
+	  Nouveau fichier		     240	bul3.png  0%  100%  
+	  Nouveau fichier		      74	bul4.gif  0%  100%  
+	  Nouveau fichier		     467	ico-invalidaing.png  0%  100%  
+	  Nouveau fichier		     437	ico-validaing.png  0%  100%  
+	  Nouveau fichier		    3189	img01.jpg  0%  100%  
+	  Nouveau fichier		    3533	img02.jpg  0%  100%  
+	  Nouveau fichier		    6205	img03.jpg  0%  100%  
+	  Nouveau fichier		    5029	img04.jpg  0%  100%  
+	  Nouveau fichier		    6113	img05.jpg  0%  100%  
+	  Nouveau fichier		    4408	img06.jpg  0%  100%  
+	  Nouveau fichier		    5924	img07.jpg  0%  100%  
+	  Nouveau fichier		    4535	img08.jpg  0%  100%  
+	  Nouveau fichier		   16018	img09.jpg  0%  100%  
+	  Nouveau fichier		    4173	img10.jpg  0%  100%  
+	  Nouveau fichier		    6618	img11.jpg  0%  100%  
+	  Nouveau fichier		    2113	loader.gif  0%  100%  
+	  Nouveau fichier		    1445	logo.gif  0%  100%  
+	  Nouveau fichier		      43	none.gif  0%  100%  
+	  Nouveau fichier		  304064	pbar-ani.gif  0%   43%   86%  100%  
+	  Nouveau fichier		    1026	pbar.gif  0%  100%  
+	  Nouveau fichier		     491	select-button.png  0%  100%  
+	  Nouveau fichier		     199	select-center.png  0%  100%  
+	  Nouveau fichier		     816	select-left-2.png  0%  100%  
+	  Nouveau fichier		     401	select-left.png  0%  100%  
+	  Nouveau fichier		     110	sep1.png  0%  100%  
+	  Nouveau fichier		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	  Nouveau fichier		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	  Nouveau fichier		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	  Nouveau fichier		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	  Nouveau fichier		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	  Nouveau fichier		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	  Nouveau fichier		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	  Nouveau fichier		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	  Nouveau fichier		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_222222_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+	  Nouveau fichier		    1207	zoom-in.png  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Installer\Js\
+	  Nouveau fichier		    7058	ie-png.js  0%  100%  
+	  Nouveau fichier		   62130	jquery.main.js  0%  100%  
+	  Nouveau fichier		   19146	jquery.ui.selectmenu.js  0%  100%  
+	  Nouveau fichier		    9543	PackageInstaller.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Jeditable\
+	  Nouveau fichier		   24034	jquery.jeditable.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\MacroContainer\
+	  Nouveau fichier		     666	macroContainer.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\MaskedInput\
+	  Nouveau fichier		    4028	jquery.maskedinput-1.3.min.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Menuicon\
+	  Nouveau fichier		     571	style.css  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Menuicon\Images\
+	  Nouveau fichier		     273	buttonbg.gif  0%  100%  
+	  Nouveau fichier		     273	buttonbgdown.gif  0%  100%  
+	  Nouveau fichier		     851	split.gif  0%  100%  
+	Nouveau rÇp.       5	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Modal\
+	  Nouveau fichier		   24893	jquery.simplemodal.1.4.1.custom.js  0%  100%  
+	  Nouveau fichier		   20746	modal.js  0%  100%  
+	  Nouveau fichier		     475	modalBackground.gif  0%  100%  
+	  Nouveau fichier		     151	modalGradiant.gif  0%  100%  
+	  Nouveau fichier		    1417	style.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Mousewheel\
+	  Nouveau fichier		    1638	jquery.mousewheel.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Panel\
+	  Nouveau fichier		     240	javascript.js  0%  100%  
+	  Nouveau fichier		    2608	style.css  0%  100%  
+	Nouveau rÇp.       6	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Panel\Images\
+	  Nouveau fichier		      98	panel_bg.gif  0%  100%  
+	  Nouveau fichier		      43	panel_boxfooter_bg.gif  0%  100%  
+	  Nouveau fichier		     162	panel_boxfooter_statusBar_bg.gif  0%  100%  
+	  Nouveau fichier		     164	panel_boxfooter_statusBar_h2_bg.gif  0%  100%  
+	  Nouveau fichier		     194	panel_boxhead_bg.gif  0%  100%  
+	  Nouveau fichier		     193	panel_boxhead_h2_bg.gif  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Preview\
+	  Nouveau fichier		    3508	previewModeBadge.png  0%  100%  
+	  Nouveau fichier		     169	umbracoPreview.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\ProgressBar\
+	  Nouveau fichier		     795	javascript.js  0%  100%  
+	  Nouveau fichier		     524	style.css  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\ProgressBar\Images\
+	  Nouveau fichier		     314	container_left.gif  0%  100%  
+	  Nouveau fichier		     102	container_right.gif  0%  100%  
+	  Nouveau fichier		     113	indicator.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Propertypane\
+	  Nouveau fichier		    2000	style.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Propertypane\Images\
+	  Nouveau fichier		    9038	propertyBackground.gif  0%  100%  
+	  Nouveau fichier		     554	proppane_bg.png  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\PunyCode\
+	  Nouveau fichier		    2802	punycode.min.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Scrollingmenu\
+	  Nouveau fichier		    2851	javascript.js  0%  100%  
+	  Nouveau fichier		     255	style.css  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\
+	  Nouveau fichier		     834	arrawBack.gif  0%  100%  
+	  Nouveau fichier		     834	arrowForward.gif  0%  100%  
+	  Nouveau fichier		     183	background.gif  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Scrollingmenu\Images\Button\
+	  Nouveau fichier		     273	buttonbg.gif  0%  100%  
+	  Nouveau fichier		     273	buttonbgdown.gif  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\SimpleEditor\
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\SimpleEditor\Images\
+	  Nouveau fichier		      78	bold.gif  0%  100%  
+	  Nouveau fichier		      73	italic.gif  0%  100%  
+	  Nouveau fichier		     108	link.gif  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Splitbutton\
+	  Nouveau fichier		    2245	InsertMacroSplitButton.js  0%  100%  
+	  Nouveau fichier		   18462	jquery.splitbutton.js  0%  100%  
+	  Nouveau fichier		    2773	splitbutton.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Splitbutton\Images\
+	  Nouveau fichier		     130	splitbutton_downarrow.png  0%  100%  
+	  Nouveau fichier		     149	splitbutton_hover.png  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tablesorting\
+	  Nouveau fichier		   16523	jquery.tablesorter.min.js  0%  100%  
+	  Nouveau fichier		   18249	tableDragAndDrop.js  0%  100%  
+	  Nouveau fichier		   23499	tableFilter.js  0%  100%  
+	  Nouveau fichier		   12838	tableFilterUtill.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tablesorting\img\
+	  Nouveau fichier		     830	asc.gif  0%  100%  
+	  Nouveau fichier		      73	bg.gif  0%  100%  
+	  Nouveau fichier		     833	desc.gif  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tabview\
+	  Nouveau fichier		    3721	javascript.js  0%  100%  
+	  Nouveau fichier		    1589	oldstyle.css  0%  100%  
+	  Nouveau fichier		    2633	style.css  0%  100%  
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tabview\Images\
+	  Nouveau fichier		     169	background.gif  0%  100%  
+	  Nouveau fichier		      73	bg.gif  0%  100%  
+	  Nouveau fichier		      43	footer_bg.gif  0%  100%  
+	  Nouveau fichier		     162	footer_statusBar_bg.gif  0%  100%  
+	  Nouveau fichier		     164	footer_statusBar_h2_bg.gif  0%  100%  
+	  Nouveau fichier		    1343	left_both.gif  0%  100%  
+	  Nouveau fichier		    3913	right_both.gif  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tags\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tags\Css\
+	  Nouveau fichier		    1117	jquery.tagsinput.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tags\Js\
+	  Nouveau fichier		   11891	jquery.tagsinput.js  0%  100%  
+	  Nouveau fichier		    6400	jquery.tagsinput.min.js  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\
+	  Nouveau fichier		   26930	license.txt  0%  100%  
+	  Nouveau fichier		  232483	tiny_mce.js  0%   56%  100%  
+	  Nouveau fichier		    4912	tiny_mce_popup.js  0%  100%  
+	  Nouveau fichier		  524361	tiny_mce_src.js  0%   49%   99%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Langs\
+	  Nouveau fichier		    7049	da.js  0%  100%  
+	  Nouveau fichier		    7251	de.js  0%  100%  
+	  Nouveau fichier		    6515	en.js  0%  100%  
+	  Nouveau fichier		    6518	en_us.js  0%  100%  
+	  Nouveau fichier		    7711	fi.js  0%  100%  
+	  Nouveau fichier		    7765	fr.js  0%  100%  
+	  Nouveau fichier		   15279	he.js  0%  100%  
+	  Nouveau fichier		    7010	it.js  0%  100%  
+	  Nouveau fichier		   11301	ja.js  0%  100%  
+	  Nouveau fichier		    6635	nl.js  0%  100%  
+	  Nouveau fichier		    6958	no.js  0%  100%  
+	  Nouveau fichier		    7897	pl.js  0%  100%  
+	  Nouveau fichier		    7053	pt.js  0%  100%  
+	  Nouveau fichier		   19794	ru.js  0%  100%  
+	  Nouveau fichier		    6966	sv.js  0%  100%  
+	  Nouveau fichier		    8432	zh.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\
+	  Nouveau fichier		     847	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1442	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    2422	rule.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Css\
+	  Nouveau fichier		     240	advhr.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Js\
+	  Nouveau fichier		    1322	rule.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advhr\Langs\
+	  Nouveau fichier		     127	da_dlg.js  0%  100%  
+	  Nouveau fichier		     129	de_dlg.js  0%  100%  
+	  Nouveau fichier		     117	en_dlg.js  0%  100%  
+	  Nouveau fichier		     120	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     128	fi_dlg.js  0%  100%  
+	  Nouveau fichier		     129	fr_dlg.js  0%  100%  
+	  Nouveau fichier		     225	he_dlg.js  0%  100%  
+	  Nouveau fichier		     138	it_dlg.js  0%  100%  
+	  Nouveau fichier		     146	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     126	nl_dlg.js  0%  100%  
+	  Nouveau fichier		     127	no_dlg.js  0%  100%  
+	  Nouveau fichier		     150	pl_dlg.js  0%  100%  
+	  Nouveau fichier		     120	pt_dlg.js  0%  100%  
+	  Nouveau fichier		     342	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     125	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     142	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\
+	  Nouveau fichier		     791	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1391	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   12086	image.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Css\
+	  Nouveau fichier		     672	advimage.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Img\
+	  Nouveau fichier		    1624	sample.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Js\
+	  Nouveau fichier		   12909	image.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advimage\Langs\
+	  Nouveau fichier		    1352	da_dlg.js  0%  100%  
+	  Nouveau fichier		    1363	de_dlg.js  0%  100%  
+	  Nouveau fichier		    1270	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1273	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1387	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    1508	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    2771	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1467	it_dlg.js  0%  100%  
+	  Nouveau fichier		    2319	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    1267	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1312	no_dlg.js  0%  100%  
+	  Nouveau fichier		    1467	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    1374	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    4924	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1266	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    1761	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\
+	  Nouveau fichier		     973	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1633	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   16123	link.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Css\
+	  Nouveau fichier		     480	advlink.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Js\
+	  Nouveau fichier		   17341	advlink.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlink\Langs\
+	  Nouveau fichier		    1944	da_dlg.js  0%  100%  
+	  Nouveau fichier		    1955	de_dlg.js  0%  100%  
+	  Nouveau fichier		    1667	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1670	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1985	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    2120	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    4332	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1864	it_dlg.js  0%  100%  
+	  Nouveau fichier		    3274	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    1710	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1871	no_dlg.js  0%  100%  
+	  Nouveau fichier		    2012	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    1962	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    5662	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1846	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2326	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Advlist\
+	  Nouveau fichier		    2324	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    4726	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autolink\
+	  Nouveau fichier		    2355	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    5492	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autoresize\
+	  Nouveau fichier		    1506	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    4158	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\
+	  Nouveau fichier		    3584	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   13766	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Autosave\Langs\
+	  Nouveau fichier		     256	en.js  0%  100%  
+	  Nouveau fichier		     259	en_us.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Bbcode\
+	  Nouveau fichier		    3231	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    4361	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Contextmenu\
+	  Nouveau fichier		    2540	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    5227	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Directionality\
+	  Nouveau fichier		    1259	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2189	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\
+	  Nouveau fichier		     676	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1220	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    5972	emotions.htm  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Img\
+	  Nouveau fichier		     354	smiley-cool.gif  0%  100%  
+	  Nouveau fichier		     329	smiley-cry.gif  0%  100%  
+	  Nouveau fichier		     331	smiley-embarassed.gif  0%  100%  
+	  Nouveau fichier		     342	smiley-foot-in-mouth.gif  0%  100%  
+	  Nouveau fichier		     340	smiley-frown.gif  0%  100%  
+	  Nouveau fichier		     336	smiley-innocent.gif  0%  100%  
+	  Nouveau fichier		     338	smiley-kiss.gif  0%  100%  
+	  Nouveau fichier		     343	smiley-laughing.gif  0%  100%  
+	  Nouveau fichier		     321	smiley-money-mouth.gif  0%  100%  
+	  Nouveau fichier		     323	smiley-sealed.gif  0%  100%  
+	  Nouveau fichier		     344	smiley-smile.gif  0%  100%  
+	  Nouveau fichier		     338	smiley-surprised.gif  0%  100%  
+	  Nouveau fichier		     328	smiley-tongue-out.gif  0%  100%  
+	  Nouveau fichier		     337	smiley-undecided.gif  0%  100%  
+	  Nouveau fichier		     350	smiley-wink.gif  0%  100%  
+	  Nouveau fichier		     336	smiley-yell.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Js\
+	  Nouveau fichier		    1120	emotions.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Emotions\Langs\
+	  Nouveau fichier		     463	da_dlg.js  0%  100%  
+	  Nouveau fichier		     478	de_dlg.js  0%  100%  
+	  Nouveau fichier		     421	en_dlg.js  0%  100%  
+	  Nouveau fichier		     424	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     532	fi_dlg.js  0%  100%  
+	  Nouveau fichier		     513	fr_dlg.js  0%  100%  
+	  Nouveau fichier		     999	he_dlg.js  0%  100%  
+	  Nouveau fichier		     472	it_dlg.js  0%  100%  
+	  Nouveau fichier		     738	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     459	nl_dlg.js  0%  100%  
+	  Nouveau fichier		     446	no_dlg.js  0%  100%  
+	  Nouveau fichier		     529	pl_dlg.js  0%  100%  
+	  Nouveau fichier		     468	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    1380	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     496	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     456	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\
+	  Nouveau fichier		     908	dialog.htm  0%  100%  
+	  Nouveau fichier		     860	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2988	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Img\
+	  Nouveau fichier		      87	example.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Js\
+	  Nouveau fichier		     609	dialog.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Example\Langs\
+	  Nouveau fichier		      79	en.js  0%  100%  
+	  Nouveau fichier		      82	en_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\example_dependency\
+	  Nouveau fichier		     419	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1885	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\
+	  Nouveau fichier		    6322	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   11568	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   10754	fullpage.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Css\
+	  Nouveau fichier		    2188	fullpage.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Js\
+	  Nouveau fichier		    8164	fullpage.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullpage\Langs\
+	  Nouveau fichier		    2347	da_dlg.js  0%  100%  
+	  Nouveau fichier		    2469	de_dlg.js  0%  100%  
+	  Nouveau fichier		    2297	en_dlg.js  0%  100%  
+	  Nouveau fichier		    2300	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    2541	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    2864	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    4260	he_dlg.js  0%  100%  
+	  Nouveau fichier		    2520	it_dlg.js  0%  100%  
+	  Nouveau fichier		    3802	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2365	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    2359	no_dlg.js  0%  100%  
+	  Nouveau fichier		    2712	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    2387	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    6193	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    2499	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2863	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Fullscreen\
+	  Nouveau fichier		    4422	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    8222	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    3655	fullscreen.htm  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Iespell\
+	  Nouveau fichier		     909	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1484	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\
+	  Nouveau fichier		   11928	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   19657	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   12878	template.htm  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\
+	  Nouveau fichier		    6715	window.css  0%  100%  
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Clearlooks2\Img\
+	  Nouveau fichier		     810	alert.gif  0%  100%  
+	  Nouveau fichier		     272	button.gif  0%  100%  
+	  Nouveau fichier		    1195	buttons.gif  0%  100%  
+	  Nouveau fichier		     907	confirm.gif  0%  100%  
+	  Nouveau fichier		     909	corners.gif  0%  100%  
+	  Nouveau fichier		     769	horizontal.gif  0%  100%  
+	  Nouveau fichier		      84	vertical.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\
+	  Nouveau fichier		    4816	window.css  0%  100%  
+	Nouveau rÇp.       8	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Inlinepopups\Skins\Umbraco\Img\
+	  Nouveau fichier		     818	alert.gif  0%  100%  
+	  Nouveau fichier		     280	button.gif  0%  100%  
+	  Nouveau fichier		    1195	buttons.gif  0%  100%  
+	  Nouveau fichier		    3728	close.png  0%  100%  
+	  Nouveau fichier		     915	confirm.gif  0%  100%  
+	  Nouveau fichier		     569	corners.gif  0%  100%  
+	  Nouveau fichier		     436	horizontal.gif  0%  100%  
+	  Nouveau fichier		     140	vertical.gif  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Insertdatetime\
+	  Nouveau fichier		    1931	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2860	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Layer\
+	  Nouveau fichier		    4052	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    6747	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Legacyoutput\
+	  Nouveau fichier		    2086	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    5077	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Lists\
+	  Nouveau fichier		   14380	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   32531	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\
+	  Nouveau fichier		   12655	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   26419	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   38852	media.htm  0%  100%  
+	  Nouveau fichier		   19980	moxieplayer.swf  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Css\
+	  Nouveau fichier		    1357	media.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Js\
+	  Nouveau fichier		    1938	embed.js  0%  100%  
+	  Nouveau fichier		   16473	media.js  0%  100%  
+	Nouveau rÇp.      18	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Media\Langs\
+	  Nouveau fichier		    3077	da_dlg.js  0%  100%  
+	  Nouveau fichier		    3164	de_dlg.js  0%  100%  
+	  Nouveau fichier		    2815	en_dlg.js  0%  100%  
+	  Nouveau fichier		    2818	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    3018	es_dlg.js  0%  100%  
+	  Nouveau fichier		    3314	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    3302	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    5399	he_dlg.js  0%  100%  
+	  Nouveau fichier		    3062	it_dlg.js  0%  100%  
+	  Nouveau fichier		    5047	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2734	ko_dlg.js  0%  100%  
+	  Nouveau fichier		    2949	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    3047	no_dlg.js  0%  100%  
+	  Nouveau fichier		    3259	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    3259	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    9433	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    2962	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    3445	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Nonbreaking\
+	  Nouveau fichier		     944	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1521	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Noneditable\
+	  Nouveau fichier		    5431	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   17154	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Pagebreak\
+	  Nouveau fichier		    1402	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2161	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\
+	  Nouveau fichier		   13713	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   31674	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    1209	pastetext.htm  0%  100%  
+	  Nouveau fichier		     783	pasteword.htm  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Js\
+	  Nouveau fichier		     884	pastetext.js  0%  100%  
+	  Nouveau fichier		    1647	pasteword.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Paste\Langs\
+	  Nouveau fichier		     227	da_dlg.js  0%  100%  
+	  Nouveau fichier		     262	de_dlg.js  0%  100%  
+	  Nouveau fichier		     226	en_dlg.js  0%  100%  
+	  Nouveau fichier		     229	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     245	fi_dlg.js  0%  100%  
+	  Nouveau fichier		     276	fr_dlg.js  0%  100%  
+	  Nouveau fichier		     610	he_dlg.js  0%  100%  
+	  Nouveau fichier		     252	it_dlg.js  0%  100%  
+	  Nouveau fichier		     517	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     209	nl_dlg.js  0%  100%  
+	  Nouveau fichier		     256	no_dlg.js  0%  100%  
+	  Nouveau fichier		     263	pl_dlg.js  0%  100%  
+	  Nouveau fichier		     190	pt_dlg.js  0%  100%  
+	  Nouveau fichier		     633	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     284	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     258	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\
+	  Nouveau fichier		    1051	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1641	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		     731	example.html  0%  100%  
+	  Nouveau fichier		     630	preview.html  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Preview\Jscripts\
+	  Nouveau fichier		    1938	embed.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Print\
+	  Nouveau fichier		     492	editor_plugin.js  0%  100%  
+	  Nouveau fichier		     881	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Save\
+	  Nouveau fichier		    1569	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2529	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\
+	  Nouveau fichier		    1046	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1795	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    5334	searchreplace.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Css\
+	  Nouveau fichier		     176	searchreplace.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Js\
+	  Nouveau fichier		    3878	searchreplace.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Searchreplace\Langs\
+	  Nouveau fichier		     461	da_dlg.js  0%  100%  
+	  Nouveau fichier		     522	de_dlg.js  0%  100%  
+	  Nouveau fichier		     445	en_dlg.js  0%  100%  
+	  Nouveau fichier		     448	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     468	fi_dlg.js  0%  100%  
+	  Nouveau fichier		     584	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    1056	he_dlg.js  0%  100%  
+	  Nouveau fichier		     473	it_dlg.js  0%  100%  
+	  Nouveau fichier		     755	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     488	nl_dlg.js  0%  100%  
+	  Nouveau fichier		     475	no_dlg.js  0%  100%  
+	  Nouveau fichier		     602	pl_dlg.js  0%  100%  
+	  Nouveau fichier		     489	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    1262	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     535	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     633	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\
+	  Nouveau fichier		    7217	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   12791	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Css\
+	  Nouveau fichier		      98	content.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Spellchecker\Img\
+	  Nouveau fichier		      46	wline.gif  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\
+	  Nouveau fichier		    1117	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1927	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		   38494	props.htm  0%  100%  
+	  Nouveau fichier		    1030	readme.txt  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Css\
+	  Nouveau fichier		     906	props.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Js\
+	  Nouveau fichier		   32355	props.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Style\Langs\
+	  Nouveau fichier		    1689	da_dlg.js  0%  100%  
+	  Nouveau fichier		    1824	de_dlg.js  0%  100%  
+	  Nouveau fichier		    1627	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1630	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1762	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    1723	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    3246	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1718	it_dlg.js  0%  100%  
+	  Nouveau fichier		    2436	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    1652	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1648	no_dlg.js  0%  100%  
+	  Nouveau fichier		    1916	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    1684	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    4509	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1700	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2005	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Tabfocus\
+	  Nouveau fichier		    1666	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    3057	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       6	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\
+	  Nouveau fichier		    7292	cell.htm  0%  100%  
+	  Nouveau fichier		   17667	editor_plugin.js  0%  100%  
+	  Nouveau fichier		   40915	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    1508	merge_cells.htm  0%  100%  
+	  Nouveau fichier		    6263	row.htm  0%  100%  
+	  Nouveau fichier		    9035	table.htm  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Css\
+	  Nouveau fichier		     205	cell.css  0%  100%  
+	  Nouveau fichier		     306	row.css  0%  100%  
+	  Nouveau fichier		     170	table.css  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Js\
+	  Nouveau fichier		    9458	cell.js  0%  100%  
+	  Nouveau fichier		     566	merge_cells.js  0%  100%  
+	  Nouveau fichier		    7775	row.js  0%  100%  
+	  Nouveau fichier		   15534	table.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Table\Langs\
+	  Nouveau fichier		    2262	da_dlg.js  0%  100%  
+	  Nouveau fichier		    2462	de_dlg.js  0%  100%  
+	  Nouveau fichier		    2092	en_dlg.js  0%  100%  
+	  Nouveau fichier		    2095	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    2516	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    2694	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    4748	he_dlg.js  0%  100%  
+	  Nouveau fichier		    2301	it_dlg.js  0%  100%  
+	  Nouveau fichier		    3631	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2199	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    2247	no_dlg.js  0%  100%  
+	  Nouveau fichier		    2653	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    2285	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    6724	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    2189	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2859	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\
+	  Nouveau fichier		     332	blank.htm  0%  100%  
+	  Nouveau fichier		    3302	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    4986	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    1441	template.htm  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Css\
+	  Nouveau fichier		     275	template.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Js\
+	  Nouveau fichier		    2777	template.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Template\Langs\
+	  Nouveau fichier		     670	da_dlg.js  0%  100%  
+	  Nouveau fichier		     662	de_dlg.js  0%  100%  
+	  Nouveau fichier		     627	en_dlg.js  0%  100%  
+	  Nouveau fichier		     630	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     756	fi_dlg.js  0%  100%  
+	  Nouveau fichier		     731	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    1065	he_dlg.js  0%  100%  
+	  Nouveau fichier		     693	it_dlg.js  0%  100%  
+	  Nouveau fichier		    1041	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     670	nl_dlg.js  0%  100%  
+	  Nouveau fichier		     651	no_dlg.js  0%  100%  
+	  Nouveau fichier		     688	pl_dlg.js  0%  100%  
+	  Nouveau fichier		     694	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    2076	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     670	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     989	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocontextmenu\
+	  Nouveau fichier		    2561	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\
+	  Nouveau fichier		     991	dialog.htm  0%  100%  
+	  Nouveau fichier		    8362	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Img\
+	  Nouveau fichier		      87	example.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Js\
+	  Nouveau fichier		     609	dialog.js  0%  100%  
+	Nouveau rÇp.      14	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracocss\Langs\
+	  Nouveau fichier		      79	en.js  0%  100%  
+	  Nouveau fichier		      82	en_dlg.js  0%  100%  
+	  Nouveau fichier		      82	en_us.js  0%  100%  
+	  Nouveau fichier		      85	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		      67	it.js  0%  100%  
+	  Nouveau fichier		      71	it_dlg.js  0%  100%  
+	  Nouveau fichier		      92	ja.js  0%  100%  
+	  Nouveau fichier		      84	ja_dlg.js  0%  100%  
+	  Nouveau fichier		      96	ru.js  0%  100%  
+	  Nouveau fichier		     105	ru_dlg.js  0%  100%  
+	  Nouveau fichier		      76	sv.js  0%  100%  
+	  Nouveau fichier		      93	sv_dlg.js  0%  100%  
+	  Nouveau fichier		      67	zh.js  0%  100%  
+	  Nouveau fichier		      72	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\
+	  Nouveau fichier		    3816	dialog.htm  0%  100%  
+	  Nouveau fichier		     860	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2984	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Img\
+	  Nouveau fichier		    1928	ajax-loader.gif  0%  100%  
+	  Nouveau fichier		     260	embed.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Js\
+	  Nouveau fichier		    3260	dialog.js  0%  100%  
+	Nouveau rÇp.      18	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoembed\Langs\
+	  Nouveau fichier		      85	da.js  0%  100%  
+	  Nouveau fichier		     251	da_dlg.js  0%  100%  
+	  Nouveau fichier		     272	de.js  0%  100%  
+	  Nouveau fichier		     272	de_dlg.js  0%  100%  
+	  Nouveau fichier		      78	en.js  0%  100%  
+	  Nouveau fichier		     232	en_dlg.js  0%  100%  
+	  Nouveau fichier		      81	en_us.js  0%  100%  
+	  Nouveau fichier		     235	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		     236	it.js  0%  100%  
+	  Nouveau fichier		     244	it_dlg.js  0%  100%  
+	  Nouveau fichier		     267	ja.js  0%  100%  
+	  Nouveau fichier		     268	ja_dlg.js  0%  100%  
+	  Nouveau fichier		     329	ru.js  0%  100%  
+	  Nouveau fichier		     329	ru_dlg.js  0%  100%  
+	  Nouveau fichier		     260	sv.js  0%  100%  
+	  Nouveau fichier		     260	sv_dlg.js  0%  100%  
+	  Nouveau fichier		     235	zh.js  0%  100%  
+	  Nouveau fichier		     235	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\
+	  Nouveau fichier		    1739	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Js\
+	  Nouveau fichier		   10412	image.js  0%  100%  
+	Nouveau rÇp.       8	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoimg\Langs\
+	  Nouveau fichier		    1495	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1498	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1495	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1583	it_dlg.js  0%  100%  
+	  Nouveau fichier		    1694	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2314	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1536	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    1346	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\
+	  Nouveau fichier		    1860	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Js\
+	  Nouveau fichier		   17755	umbracolink.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracolink\Langs\
+	  Nouveau fichier		    1944	da_dlg.js  0%  100%  
+	  Nouveau fichier		    1955	de_dlg.js  0%  100%  
+	  Nouveau fichier		    1667	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1670	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1985	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    2120	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    4332	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1864	it_dlg.js  0%  100%  
+	  Nouveau fichier		    3274	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    1710	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1871	no_dlg.js  0%  100%  
+	  Nouveau fichier		    2012	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    1962	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    2727	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1846	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2326	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\
+	  Nouveau fichier		     991	dialog.htm  0%  100%  
+	  Nouveau fichier		    6151	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Img\
+	  Nouveau fichier		     603	insMacro.gif  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Js\
+	  Nouveau fichier		     609	dialog.js  0%  100%  
+	Nouveau rÇp.      14	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracomacro\Langs\
+	  Nouveau fichier		      69	en.js  0%  100%  
+	  Nouveau fichier		      82	en_dlg.js  0%  100%  
+	  Nouveau fichier		      72	en_us.js  0%  100%  
+	  Nouveau fichier		      85	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		      79	he.js  0%  100%  
+	  Nouveau fichier		      82	he_dlg.js  0%  100%  
+	  Nouveau fichier		      75	ja.js  0%  100%  
+	  Nouveau fichier		      90	ja_dlg.js  0%  100%  
+	  Nouveau fichier		      86	ru.js  0%  100%  
+	  Nouveau fichier		      81	ru_dlg.js  0%  100%  
+	  Nouveau fichier		      69	sv.js  0%  100%  
+	  Nouveau fichier		      92	sv_dlg.js  0%  100%  
+	  Nouveau fichier		      66	zh.js  0%  100%  
+	  Nouveau fichier		      72	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracopaste\
+	  Nouveau fichier		    1753	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Umbracoshortcut\
+	  Nouveau fichier		    1255	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\
+	  Nouveau fichier		     958	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    1712	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualblocks\Css\
+	  Nouveau fichier		    3040	visualblocks.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Visualchars\
+	  Nouveau fichier		    1368	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    2195	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Wordcount\
+	  Nouveau fichier		    1960	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    3331	editor_plugin_src.js  0%  100%  
+	Nouveau rÇp.       8	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\
+	  Nouveau fichier		    6243	abbr.htm  0%  100%  
+	  Nouveau fichier		    6258	acronym.htm  0%  100%  
+	  Nouveau fichier		    6232	attributes.htm  0%  100%  
+	  Nouveau fichier		    6243	cite.htm  0%  100%  
+	  Nouveau fichier		    7294	del.htm  0%  100%  
+	  Nouveau fichier		    2756	editor_plugin.js  0%  100%  
+	  Nouveau fichier		    4098	editor_plugin_src.js  0%  100%  
+	  Nouveau fichier		    7299	ins.htm  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Css\
+	  Nouveau fichier		     197	attributes.css  0%  100%  
+	  Nouveau fichier		     514	popup.css  0%  100%  
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Js\
+	  Nouveau fichier		     541	abbr.js  0%  100%  
+	  Nouveau fichier		     559	acronym.js  0%  100%  
+	  Nouveau fichier		    3471	attributes.js  0%  100%  
+	  Nouveau fichier		     541	cite.js  0%  100%  
+	  Nouveau fichier		    1356	del.js  0%  100%  
+	  Nouveau fichier		    7159	element_common.js  0%  100%  
+	  Nouveau fichier		    1356	ins.js  0%  100%  
+	Nouveau rÇp.      16	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Plugins\Xhtmlxtras\Langs\
+	  Nouveau fichier		    1194	da_dlg.js  0%  100%  
+	  Nouveau fichier		    1141	de_dlg.js  0%  100%  
+	  Nouveau fichier		    1092	en_dlg.js  0%  100%  
+	  Nouveau fichier		    1095	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    1214	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    1195	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    2222	he_dlg.js  0%  100%  
+	  Nouveau fichier		    1181	it_dlg.js  0%  100%  
+	  Nouveau fichier		    1531	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    1149	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1147	no_dlg.js  0%  100%  
+	  Nouveau fichier		    1159	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    1140	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    2564	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    1157	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    1372	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\
+	Nouveau rÇp.      10	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\
+	  Nouveau fichier		    2701	about.htm  0%  100%  
+	  Nouveau fichier		    1167	anchor.htm  0%  100%  
+	  Nouveau fichier		    2251	charmap.htm  0%  100%  
+	  Nouveau fichier		    3317	color_picker.htm  0%  100%  
+	  Nouveau fichier		   26734	editor_template.js  0%  100%  
+	  Nouveau fichier		   43419	editor_template_src.js  0%  100%  
+	  Nouveau fichier		    4038	image.htm  0%  100%  
+	  Nouveau fichier		    2527	link.htm  0%  100%  
+	  Nouveau fichier		    1732	shortcuts.htm  0%  100%  
+	  Nouveau fichier		    1269	source_editor.htm  0%  100%  
+	Nouveau rÇp.      11	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Img\
+	  Nouveau fichier		    2584	colorpicker.jpg  0%  100%  
+	  Nouveau fichier		     239	flash.gif  0%  100%  
+	  Nouveau fichier		   11982	icons.gif  0%  100%  
+	  Nouveau fichier		     600	iframe.gif  0%  100%  
+	  Nouveau fichier		     325	pagebreak.gif  0%  100%  
+	  Nouveau fichier		     301	quicktime.gif  0%  100%  
+	  Nouveau fichier		     439	realmedia.gif  0%  100%  
+	  Nouveau fichier		     384	shockwave.gif  0%  100%  
+	  Nouveau fichier		      43	trans.gif  0%  100%  
+	  Nouveau fichier		     597	video.gif  0%  100%  
+	  Nouveau fichier		     415	windowsmedia.gif  0%  100%  
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Js\
+	  Nouveau fichier		    2203	about.js  0%  100%  
+	  Nouveau fichier		    1498	anchor.js  0%  100%  
+	  Nouveau fichier		   15793	charmap.js  0%  100%  
+	  Nouveau fichier		   14559	color_picker.js  0%  100%  
+	  Nouveau fichier		    6391	image.js  0%  100%  
+	  Nouveau fichier		    4947	link.js  0%  100%  
+	  Nouveau fichier		    1694	source_editor.js  0%  100%  
+	Nouveau rÇp.      28	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Langs\
+	  Nouveau fichier		    2547	da.js  0%  100%  
+	  Nouveau fichier		    2201	da_dlg.js  0%  100%  
+	  Nouveau fichier		    2623	de.js  0%  100%  
+	  Nouveau fichier		    2152	de_dlg.js  0%  100%  
+	  Nouveau fichier		    2341	en.js  0%  100%  
+	  Nouveau fichier		    1981	en_dlg.js  0%  100%  
+	  Nouveau fichier		    2767	fi.js  0%  100%  
+	  Nouveau fichier		    2287	fi_dlg.js  0%  100%  
+	  Nouveau fichier		    2782	fr.js  0%  100%  
+	  Nouveau fichier		    2341	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    5268	he.js  0%  100%  
+	  Nouveau fichier		    4766	he_dlg.js  0%  100%  
+	  Nouveau fichier		    2771	it.js  0%  100%  
+	  Nouveau fichier		    2120	it_dlg.js  0%  100%  
+	  Nouveau fichier		    3775	ja.js  0%  100%  
+	  Nouveau fichier		    3416	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2329	nl.js  0%  100%  
+	  Nouveau fichier		    2040	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    2400	no.js  0%  100%  
+	  Nouveau fichier		    2124	no_dlg.js  0%  100%  
+	  Nouveau fichier		    2869	pl.js  0%  100%  
+	  Nouveau fichier		    2298	pl_dlg.js  0%  100%  
+	  Nouveau fichier		    2714	pt.js  0%  100%  
+	  Nouveau fichier		    2217	pt_dlg.js  0%  100%  
+	  Nouveau fichier		    2502	sv.js  0%  100%  
+	  Nouveau fichier		    2205	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    3059	zh.js  0%  100%  
+	  Nouveau fichier		    2544	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\
+	  Nouveau fichier		    2607	content.css  0%  100%  
+	  Nouveau fichier		    5761	dialog.css  0%  100%  
+	  Nouveau fichier		   15959	ui.css  0%  100%  
+	Nouveau rÇp.       6	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Default\Img\
+	  Nouveau fichier		    3133	buttons.png  0%  100%  
+	  Nouveau fichier		      64	items.gif  0%  100%  
+	  Nouveau fichier		      68	menu_arrow.gif  0%  100%  
+	  Nouveau fichier		      70	menu_check.gif  0%  100%  
+	  Nouveau fichier		    1787	progress.gif  0%  100%  
+	  Nouveau fichier		    1322	tabs.gif  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\Highcontrast\
+	  Nouveau fichier		    1122	content.css  0%  100%  
+	  Nouveau fichier		    5219	dialog.css  0%  100%  
+	  Nouveau fichier		    8886	ui.css  0%  100%  
+	Nouveau rÇp.       5	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\
+	  Nouveau fichier		    2331	content.css  0%  100%  
+	  Nouveau fichier		    5849	dialog.css  0%  100%  
+	  Nouveau fichier		   15405	ui.css  0%  100%  
+	  Nouveau fichier		    1695	ui_black.css  0%  100%  
+	  Nouveau fichier		     860	ui_silver.css  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Advanced\Skins\O2k7\Img\
+	  Nouveau fichier		    2766	button_bg.png  0%  100%  
+	  Nouveau fichier		     651	button_bg_black.png  0%  100%  
+	  Nouveau fichier		    2084	button_bg_silver.png  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\
+	  Nouveau fichier		    2226	editor_template.js  0%  100%  
+	  Nouveau fichier		    3205	editor_template_src.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Img\
+	  Nouveau fichier		     806	icons.gif  0%  100%  
+	Nouveau rÇp.      14	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Langs\
+	  Nouveau fichier		     359	da.js  0%  100%  
+	  Nouveau fichier		     355	de.js  0%  100%  
+	  Nouveau fichier		     347	en.js  0%  100%  
+	  Nouveau fichier		     376	fi.js  0%  100%  
+	  Nouveau fichier		     349	fr.js  0%  100%  
+	  Nouveau fichier		     539	he.js  0%  100%  
+	  Nouveau fichier		     345	it.js  0%  100%  
+	  Nouveau fichier		     487	ja.js  0%  100%  
+	  Nouveau fichier		     326	nl.js  0%  100%  
+	  Nouveau fichier		     309	no.js  0%  100%  
+	  Nouveau fichier		     382	pl.js  0%  100%  
+	  Nouveau fichier		     351	pt.js  0%  100%  
+	  Nouveau fichier		     347	sv.js  0%  100%  
+	  Nouveau fichier		     401	zh.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\Default\
+	  Nouveau fichier		     513	content.css  0%  100%  
+	  Nouveau fichier		    2105	ui.css  0%  100%  
+	Nouveau rÇp.       2	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\
+	  Nouveau fichier		     461	content.css  0%  100%  
+	  Nouveau fichier		    2340	ui.css  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Simple\Skins\O2k7\Img\
+	  Nouveau fichier		    5102	button_bg.png  0%  100%  
+	Nouveau rÇp.       9	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\
+	  Nouveau fichier		    2682	about.htm  0%  100%  
+	  Nouveau fichier		    1091	anchor.htm  0%  100%  
+	  Nouveau fichier		    2339	charmap.htm  0%  100%  
+	  Nouveau fichier		    3333	color_picker.htm  0%  100%  
+	  Nouveau fichier		   43516	editor_template_src.js  0%  100%  
+	  Nouveau fichier		    4046	image.htm  0%  100%  
+	  Nouveau fichier		    2547	link.htm  0%  100%  
+	  Nouveau fichier		    1730	shortcuts.htm  0%  100%  
+	  Nouveau fichier		    1382	source_editor.htm  0%  100%  
+	Nouveau rÇp.      11	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Img\
+	  Nouveau fichier		    2584	colorpicker.jpg  0%  100%  
+	  Nouveau fichier		     239	flash.gif  0%  100%  
+	  Nouveau fichier		   11982	icons.gif  0%  100%  
+	  Nouveau fichier		     600	iframe.gif  0%  100%  
+	  Nouveau fichier		     325	pagebreak.gif  0%  100%  
+	  Nouveau fichier		     301	quicktime.gif  0%  100%  
+	  Nouveau fichier		     439	realmedia.gif  0%  100%  
+	  Nouveau fichier		     384	shockwave.gif  0%  100%  
+	  Nouveau fichier		      43	trans.gif  0%  100%  
+	  Nouveau fichier		     597	video.gif  0%  100%  
+	  Nouveau fichier		     415	windowsmedia.gif  0%  100%  
+	Nouveau rÇp.       7	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Js\
+	  Nouveau fichier		    2203	about.js  0%  100%  
+	  Nouveau fichier		    1193	anchor.js  0%  100%  
+	  Nouveau fichier		   15793	charmap.js  0%  100%  
+	  Nouveau fichier		   14559	color_picker.js  0%  100%  
+	  Nouveau fichier		    6391	image.js  0%  100%  
+	  Nouveau fichier		    4884	link.js  0%  100%  
+	  Nouveau fichier		    1694	source_editor.js  0%  100%  
+	Nouveau rÇp.      30	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Langs\
+	  Nouveau fichier		    2109	da.js  0%  100%  
+	  Nouveau fichier		    1926	da_dlg.js  0%  100%  
+	  Nouveau fichier		    2265	de.js  0%  100%  
+	  Nouveau fichier		    1860	de_dlg.js  0%  100%  
+	  Nouveau fichier		    2488	en.js  0%  100%  
+	  Nouveau fichier		    2066	en_dlg.js  0%  100%  
+	  Nouveau fichier		    2491	en_us.js  0%  100%  
+	  Nouveau fichier		    2069	en_us_dlg.js  0%  100%  
+	  Nouveau fichier		    2232	es.js  0%  100%  
+	  Nouveau fichier		    1998	es_dlg.js  0%  100%  
+	  Nouveau fichier		    2294	fr.js  0%  100%  
+	  Nouveau fichier		    1964	fr_dlg.js  0%  100%  
+	  Nouveau fichier		    2209	he.js  0%  100%  
+	  Nouveau fichier		    1987	he_dlg.js  0%  100%  
+	  Nouveau fichier		    2669	it.js  0%  100%  
+	  Nouveau fichier		    2058	it_dlg.js  0%  100%  
+	  Nouveau fichier		    2727	ja.js  0%  100%  
+	  Nouveau fichier		    2429	ja_dlg.js  0%  100%  
+	  Nouveau fichier		    2823	ko.js  0%  100%  
+	  Nouveau fichier		    2147	ko_dlg.js  0%  100%  
+	  Nouveau fichier		    1946	nl.js  0%  100%  
+	  Nouveau fichier		    1768	nl_dlg.js  0%  100%  
+	  Nouveau fichier		    1948	no.js  0%  100%  
+	  Nouveau fichier		    1846	no_dlg.js  0%  100%  
+	  Nouveau fichier		    3405	ru.js  0%  100%  
+	  Nouveau fichier		    2725	ru_dlg.js  0%  100%  
+	  Nouveau fichier		    2012	sv.js  0%  100%  
+	  Nouveau fichier		    1912	sv_dlg.js  0%  100%  
+	  Nouveau fichier		    2409	zh.js  0%  100%  
+	  Nouveau fichier		    2070	zh_dlg.js  0%  100%  
+	Nouveau rÇp.       0	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\
+	  Nouveau fichier		    1367	content.css  0%  100%  
+	  Nouveau fichier		    5364	dialog.css  0%  100%  
+	  Nouveau fichier		   16035	ui.css  0%  100%  
+	Nouveau rÇp.       6	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Themes\Umbraco\Skins\Umbraco\Img\
+	  Nouveau fichier		    4579	buttons.png  0%  100%  
+	  Nouveau fichier		      70	items.gif  0%  100%  
+	  Nouveau fichier		      68	menu_arrow.gif  0%  100%  
+	  Nouveau fichier		      70	menu_check.gif  0%  100%  
+	  Nouveau fichier		    1787	progress.gif  0%  100%  
+	  Nouveau fichier		    1326	tabs.gif  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tinymce3\Utils\
+	  Nouveau fichier		    2046	editable_selects.js  0%  100%  
+	  Nouveau fichier		    5991	form_utils.js  0%  100%  
+	  Nouveau fichier		    4055	mctabs.js  0%  100%  
+	  Nouveau fichier		    6100	validate.js  0%  100%  
+	Nouveau rÇp.      11	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tree\
+	  Nouveau fichier		    2638	jquery.tree.checkbox.js  0%  100%  
+	  Nouveau fichier		    9637	jquery.tree.contextmenu.js  0%  100%  
+	  Nouveau fichier		  114705	jquery.tree.js  0%  100%  
+	  Nouveau fichier		     548	jquery.tree.metadata.js  0%  100%  
+	  Nouveau fichier		    1642	menuIcons.css  0%  100%  
+	  Nouveau fichier		    1866	NodeDefinition.js  0%  100%  
+	  Nouveau fichier		   12897	sprites.png  0%  100%  
+	  Nouveau fichier		    7307	sprites_ie6.gif  0%  100%  
+	  Nouveau fichier		    2597	treeIcons.css  0%  100%  
+	  Nouveau fichier		    3662	UmbracoContext.js  0%  100%  
+	  Nouveau fichier		   55287	UmbracoTree.js  0%  100%  
+	Nouveau rÇp.       5	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tree\Themes\
+	  Nouveau fichier		      61	marker.gif  0%  100%  
+	  Nouveau fichier		      62	marker_rtl.gif  0%  100%  
+	  Nouveau fichier		      52	plus.gif  0%  100%  
+	  Nouveau fichier		     720	remove.png  0%  100%  
+	  Nouveau fichier		    3867	rename.png  0%  100%  
+	Nouveau rÇp.       4	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tree\Themes\Default\
+	  Nouveau fichier		      43	dot_for_ie.gif  0%  100%  
+	  Nouveau fichier		    6680	icons.png  0%  100%  
+	  Nouveau fichier		    2435	style.css  0%  100%  
+	  Nouveau fichier		    1844	throbber.gif  0%  100%  
+	Nouveau rÇp.      21	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Tree\Themes\Umbraco\
+	  Nouveau fichier		    1600	arrows.png  0%  100%  
+	  Nouveau fichier		    2910	check_0.png  0%  100%  
+	  Nouveau fichier		    3197	check_1.png  0%  100%  
+	  Nouveau fichier		    3283	check_2.png  0%  100%  
+	  Nouveau fichier		      35	context.gif  0%  100%  
+	  Nouveau fichier		      54	contextMenuBg.gif  0%  100%  
+	  Nouveau fichier		    3329	create.png  0%  100%  
+	  Nouveau fichier		      43	dot.gif  0%  100%  
+	  Nouveau fichier		    3237	f.png  0%  100%  
+	  Nouveau fichier		      60	fminus.gif  0%  100%  
+	  Nouveau fichier		      59	fminus_rtl.gif  0%  100%  
+	  Nouveau fichier		     108	fplus.gif  0%  100%  
+	  Nouveau fichier		     108	fplus_rtl.gif  0%  100%  
+	  Nouveau fichier		    6680	icons.png  0%  100%  
+	  Nouveau fichier		      55	lastli.gif  0%  100%  
+	  Nouveau fichier		      54	lastli_rtl.gif  0%  100%  
+	  Nouveau fichier		      47	li.gif  0%  100%  
+	  Nouveau fichier		     381	newVersion_overlay.png  0%  100%  
+	  Nouveau fichier		     282	protect_overlay.gif  0%  100%  
+	  Nouveau fichier		    5258	style.css  0%  100%  
+	  Nouveau fichier		    1844	throbber.gif  0%  100%  
+	Nouveau rÇp.      14	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Ui\
+	  Nouveau fichier		   52012	base2.js  0%  100%  
+	  Nouveau fichier		    4482	dd.css  0%  100%  
+	  Nouveau fichier		     138	dd_arrow.gif  0%  100%  
+	  Nouveau fichier		   13659	default.css  0%  100%  
+	  Nouveau fichier		    2324	default.js  0%  100%  
+	  Nouveau fichier		    1423	jquery.alphanumeric.js  0%  100%  
+	  Nouveau fichier		   51648	jquery.dd.js  0%  100%  
+	  Nouveau fichier		   85582	jquery.js  0%  100%  
+	  Nouveau fichier		    3581	jquery.tooltip.min.js  0%  100%  
+	  Nouveau fichier		  240439	jqueryui.js  0%   54%  100%  
+	  Nouveau fichier		    1943	jQueryWresize.js  0%  100%  
+	  Nouveau fichier		    3954	json2.js  0%  100%  
+	  Nouveau fichier		   41412	knockout.js  0%  100%  
+	  Nouveau fichier		    8687	knockout.mapping.js  0%  100%  
+	Nouveau rÇp.       1	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\
+	  Nouveau fichier		   33967	jquery-ui.custom.css  0%  100%  
+	Nouveau rÇp.      14	C:\Users\User\Source\Repos\coopjus\packages\UmbracoCms.7.5.11\UmbracoFiles\Umbraco_Client\Ui\ui-lightness\images\
+	  Nouveau fichier		     260	ui-bg_diagonals-thick_18_b81900_40x40.png  0%  100%  
+	  Nouveau fichier		     251	ui-bg_diagonals-thick_20_666666_40x40.png  0%  100%  
+	  Nouveau fichier		     178	ui-bg_flat_10_000000_40x100.png  0%  100%  
+	  Nouveau fichier		     104	ui-bg_glass_100_f6f6f6_1x400.png  0%  100%  
+	  Nouveau fichier		     125	ui-bg_glass_100_fdf5ce_1x400.png  0%  100%  
+	  Nouveau fichier		     105	ui-bg_glass_65_ffffff_1x400.png  0%  100%  
+	  Nouveau fichier		    3762	ui-bg_gloss-wave_35_f6a828_500x100.png  0%  100%  
+	  Nouveau fichier		      90	ui-bg_highlight-soft_100_eeeeee_1x100.png  0%  100%  
+	  Nouveau fichier		     129	ui-bg_highlight-soft_75_ffe45c_1x100.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_222222_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_228ef1_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ef8c08_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ffd27a_256x240.png  0%  100%  
+	  Nouveau fichier		    4369	ui-icons_ffffff_256x240.png  0%  100%  
+
+-------------------------------------------------------------------------------
+
+               Total     CopiÇ    IgnorÇDiscordance     êCHEC    Extras
+     RÇpˇ:       204       203         1         0         0         0
+Fichiersˇ:       999       999         0         0         0         0
+  Octetsˇ:    6.14 m    6.14 m         0         0         0         0
+   Heures:   0:00:14   0:00:13                       0:00:00   0:00:00
+
+
+   DÇbitˇ:              462938 Octets/sec.
+   DÇbitˇ:              26.489 MÇga-octets/min.
+   Finˇ: 10 mars 2017 00:25:12
+

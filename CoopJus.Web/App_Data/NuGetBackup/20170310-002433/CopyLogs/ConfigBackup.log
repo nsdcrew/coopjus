@@ -1,0 +1,71 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY   ::   Copie de fichiers robuste pour Windows     
+-------------------------------------------------------------------------------
+
+  DÇbutˇ: 10 mars 2017 00:24:33
+   Source : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Config\
+     Dest : C:\Users\User\Source\Repos\coopjus\CoopJus.Web\App_Data\NuGetBackup\20170310-002433\Config\
+
+    Fichiers : *.*
+	    
+  Options : *.* /S /E /DCOPY:DA /COPY:DAT /R:1000000 /W:30 
+
+-------------------------------------------------------------------------------
+
+	                  18	C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Config\
+	  Nouveau fichier		     305	404handlers.config  0%  100%  
+	  Nouveau fichier		     681	applications.config  0%  100%  
+	  Nouveau fichier		     739	BaseRestExtensions.config  0%  100%  
+	  Nouveau fichier		    3981	ClientDependency.config  0%  100%  
+	  Nouveau fichier		    2957	Dashboard.config  0%  100%  
+	  Nouveau fichier		    7088	EmbeddedMedia.config  0%  100%  
+	  Nouveau fichier		    1261	ExamineIndex.config  0%  100%  
+	  Nouveau fichier		    1834	ExamineSettings.config  0%  100%  
+	  Nouveau fichier		     429	feedProxy.config  0%  100%  
+	  Nouveau fichier		     286	FileSystemProviders.config  0%  100%  
+	  Nouveau fichier		    1023	grid.editors.config.js  0%  100%  
+	  Nouveau fichier		    1114	log4net.config  0%  100%  
+	  Nouveau fichier		      72	metablogConfig.config  0%  100%  
+	  Nouveau fichier		     837	scripting.config  0%  100%  
+	  Nouveau fichier		   12446	tinyMceConfig.config  0%  100%  
+	  Nouveau fichier		    5782	trees.config  0%  100%  
+	  Nouveau fichier		    8784	umbracoSettings.config  0%  100%  
+	  Nouveau fichier		     502	UrlRewriting.config  0%  100%  
+	Nouveau rÇp.       3	C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Config\imageprocessor\
+	  Nouveau fichier		     378	cache.config  0%  100%  
+	  Nouveau fichier		    3934	processing.config  0%  100%  
+	  Nouveau fichier		    1064	security.config  0%  100%  
+	Nouveau rÇp.      18	C:\Users\User\Source\Repos\coopjus\CoopJus.Web\Config\Lang\
+	  Nouveau fichier		      81	cs-CZ.user.xml  0%  100%  
+	  Nouveau fichier		      79	da-DK.user.xml  0%  100%  
+	  Nouveau fichier		      79	de-DE.user.xml  0%  100%  
+	  Nouveau fichier		      79	en-GB.user.xml  0%  100%  
+	  Nouveau fichier		      79	en-US.user.xml  0%  100%  
+	  Nouveau fichier		      79	es-ES.user.xml  0%  100%  
+	  Nouveau fichier		      79	fr-FR.user.xml  0%  100%  
+	  Nouveau fichier		      82	he-IL.user.xml  0%  100%  
+	  Nouveau fichier		      82	it-IT.user.xml  0%  100%  
+	  Nouveau fichier		      79	ja-JP.user.xml  0%  100%  
+	  Nouveau fichier		      82	ko-KR.user.xml  0%  100%  
+	  Nouveau fichier		      82	nb-NO.user.xml  0%  100%  
+	  Nouveau fichier		      79	nl-NL.user.xml  0%  100%  
+	  Nouveau fichier		      82	pl-PL.user.xml  0%  100%  
+	  Nouveau fichier		      82	pt-BR.user.xml  0%  100%  
+	  Nouveau fichier		      79	ru-RU.user.xml  0%  100%  
+	  Nouveau fichier		      82	sv-SE.user.xml  0%  100%  
+	  Nouveau fichier		      78	zh-CN.user.xml  0%  100%  
+
+-------------------------------------------------------------------------------
+
+               Total     CopiÇ    IgnorÇDiscordance     êCHEC    Extras
+     RÇpˇ:         3         2         1         0         0         0
+Fichiersˇ:        39        39         0         0         0         0
+  Octetsˇ:    55.6 k    55.6 k         0         0         0         0
+   Heures:   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   DÇbitˇ:              347201 Octets/sec.
+   DÇbitˇ:              19.867 MÇga-octets/min.
+   Finˇ: 10 mars 2017 00:24:33
+
